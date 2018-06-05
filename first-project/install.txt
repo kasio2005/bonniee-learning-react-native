@@ -1,0 +1,47 @@
+
+ ?────────────────────────────────────────────────────────────────?
+ │                                                                │
+ │       New minor version of npm available! 6.0.0 -> 6.1.0       │
+ │   Changelog: https://github.com/npm/npm/releases/tag/v6.1.0:   │
+ │               Run npm install -g npm to update!                │
+ │                                                                │
+ ?────────────────────────────────────────────────────────────────?
+
+added 818 packages from 397 contributors and updated 1 package in 170.749s
+[!] 5 vulnerabilities found [35195 packages audited]
+    Severity: 2 low | 2 moderate | 1 high
+    Run `npm audit` for more detail
+
+
+Success! Created first-project at C:\inetpub\wwwroot\bonniee-learning-react-nat
+ve\first-project
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server so you can open your app in the Expo
+    app on your phone.
+
+  npm run ios
+    (Mac only, requires Xcode)
+    Starts the development server and loads your app in an iOS simulator.
+
+  npm run android
+    (Requires Android build tools)
+    Starts the development server and loads your app on a connected Android
+    device or emulator.
+
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can't go back!
+
+
+We suggest that you begin by typing:
+
+  cd first-project
+  npm start
+
+Happy hacking!
