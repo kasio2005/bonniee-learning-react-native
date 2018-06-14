@@ -1,0 +1,24 @@
+Scanning folders for symlinks in C:\inetpub\wwwroot\bonniee-learning-react-native\FirstAwesomeProject\node_modules (45ms)
+JS server already running.
+Building and installing the app on the device (cd android && gradlew.bat installDebug)...
+Support for running Gradle using Java 7 has been deprecated and is scheduled to be removed in Gradle 5.0. Please see https://docs.gradle.org/4.4/userguide/java_plugin.html#sec:java_cross_compilation for more details.
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'C:\inetpub\wwwroot\bonniee-learning-react-native\FirstAwesomeProject\android\app\build.gradle' line: 1
+
+* What went wrong:
+A problem occurred evaluating project ':app'.
+> java.lang.UnsupportedClassVersionError: com/android/build/gradle/AppPlugin : Unsupported major.minor version 52.0
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 2s
+Could not install the app on the device, read the error above for details.
+Make sure you have an Android emulator running or a device connected and have
+set up your Android development environment:
+https://facebook.github.io/react-native/docs/getting-started.html

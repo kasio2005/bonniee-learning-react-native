@@ -1,0 +1,81 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   FirstAwesomeProject/.babelrc
+	new file:   FirstAwesomeProject/.buckconfig
+	new file:   FirstAwesomeProject/.flowconfig
+	new file:   FirstAwesomeProject/.gitattributes
+	new file:   FirstAwesomeProject/.gitignore
+	new file:   FirstAwesomeProject/.watchmanconfig
+	new file:   FirstAwesomeProject/App.js
+	new file:   FirstAwesomeProject/android/app/BUCK
+	new file:   FirstAwesomeProject/android/app/build.gradle
+	new file:   FirstAwesomeProject/android/app/proguard-rules.pro
+	new file:   FirstAwesomeProject/android/app/src/main/AndroidManifest.xml
+	new file:   FirstAwesomeProject/android/app/src/main/java/com/firstawesomeproject/MainActivity.java
+	new file:   FirstAwesomeProject/android/app/src/main/java/com/firstawesomeproject/MainApplication.java
+	new file:   FirstAwesomeProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+	new file:   FirstAwesomeProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+	new file:   FirstAwesomeProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+	new file:   FirstAwesomeProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+	new file:   FirstAwesomeProject/android/app/src/main/res/values/strings.xml
+	new file:   FirstAwesomeProject/android/app/src/main/res/values/styles.xml
+	new file:   FirstAwesomeProject/android/build.gradle
+	new file:   FirstAwesomeProject/android/gradle.properties
+	new file:   FirstAwesomeProject/android/gradle/wrapper/gradle-wrapper.jar
+	new file:   FirstAwesomeProject/android/gradle/wrapper/gradle-wrapper.properties
+	new file:   FirstAwesomeProject/android/gradlew
+	new file:   FirstAwesomeProject/android/gradlew.bat
+	new file:   FirstAwesomeProject/android/keystores/BUCK
+	new file:   FirstAwesomeProject/android/keystores/debug.keystore.properties
+	new file:   FirstAwesomeProject/android/settings.gradle
+	new file:   FirstAwesomeProject/app.json
+	new file:   FirstAwesomeProject/index.js
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject-tvOS/Info.plist
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject-tvOSTests/Info.plist
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject.xcodeproj/project.pbxproj
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject.xcodeproj/xcshareddata/xcschemes/FirstAwesomeProject-tvOS.xcscheme
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject.xcodeproj/xcshareddata/xcschemes/FirstAwesomeProject.xcscheme
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject/AppDelegate.h
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject/AppDelegate.m
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject/Base.lproj/LaunchScreen.xib
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject/Images.xcassets/AppIcon.appiconset/Contents.json
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject/Images.xcassets/Contents.json
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject/Info.plist
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProject/main.m
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProjectTests/FirstAwesomeProjectTests.m
+	new file:   FirstAwesomeProject/ios/FirstAwesomeProjectTests/Info.plist
+	renamed:    first-project/package-lock.json -> FirstAwesomeProject/package-lock.json
+	new file:   FirstAwesomeProject/package.json
+	new file:   FirstAwesomeProject/run-it.bat
+	new file:   FirstAwesomeProject/run-it.out
+	renamed:    create-first-project.bat -> create-first-bogus-project.bat
+	deleted:    first-project/.gitignore
+	deleted:    first-project/.watchmanconfig
+	deleted:    first-project/App.js
+	deleted:    first-project/App.test.js
+	deleted:    first-project/README.md
+	deleted:    first-project/app.json
+	deleted:    first-project/install.txt
+	deleted:    first-project/package.json
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    first-project/.babelrc
+	modified:   install.bat
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	doit.bat
+	first-bogus-project/
+	init-first-awesome-project.bat
+	init-first-awesome-project.out
+	status.bat
+	status.txt
+

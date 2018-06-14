@@ -1,0 +1,9 @@
+git rm first-project/.gitignore
+git rm first-project/.watchmanconfig
+git rm first-project/App.js
+git rm first-project/App.test.js
+git rm first-project/README.md
+git rm first-project/app.json
+git rm first-project/install.txt
+git rm first-project/package-lock.json
+git rm first-project/package.json
