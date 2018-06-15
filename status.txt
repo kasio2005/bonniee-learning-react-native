@@ -48,34 +48,25 @@ Changes to be committed:
 	new file:   FirstAwesomeProject/ios/FirstAwesomeProject/main.m
 	new file:   FirstAwesomeProject/ios/FirstAwesomeProjectTests/FirstAwesomeProjectTests.m
 	new file:   FirstAwesomeProject/ios/FirstAwesomeProjectTests/Info.plist
-	renamed:    first-project/package-lock.json -> FirstAwesomeProject/package-lock.json
+	new file:   FirstAwesomeProject/package-lock.json
 	new file:   FirstAwesomeProject/package.json
 	new file:   FirstAwesomeProject/run-it.bat
 	new file:   FirstAwesomeProject/run-it.out
 	renamed:    create-first-project.bat -> create-first-bogus-project.bat
-	deleted:    first-project/.gitignore
-	deleted:    first-project/.watchmanconfig
-	deleted:    first-project/App.js
-	deleted:    first-project/App.test.js
-	deleted:    first-project/README.md
-	deleted:    first-project/app.json
-	deleted:    first-project/install.txt
-	deleted:    first-project/package.json
-
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	deleted:    first-project/.babelrc
+	new file:   doit.bat
+	renamed:    first-project/.babelrc -> first-bogus-project/.babelrc
+	renamed:    first-project/.gitignore -> first-bogus-project/.gitignore
+	renamed:    first-project/.watchmanconfig -> first-bogus-project/.watchmanconfig
+	renamed:    first-project/App.js -> first-bogus-project/App.js
+	renamed:    first-project/App.test.js -> first-bogus-project/App.test.js
+	renamed:    first-project/README.md -> first-bogus-project/README.md
+	renamed:    first-project/app.json -> first-bogus-project/app.json
+	renamed:    first-project/install.txt -> first-bogus-project/install.txt
+	renamed:    first-project/package-lock.json -> first-bogus-project/package-lock.json
+	renamed:    first-project/package.json -> first-bogus-project/package.json
+	new file:   init-first-awesome-project.bat
+	new file:   init-first-awesome-project.out
 	modified:   install.bat
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	doit.bat
-	first-bogus-project/
-	init-first-awesome-project.bat
-	init-first-awesome-project.out
-	status.bat
-	status.txt
+	new file:   status.bat
+	new file:   status.txt
 
