@@ -48,9 +48,8 @@ class App extends Component {
               </Text>
               <View style={styles.zipContainer}>
                 <TextInput
-                  style={[styles.zipCode, styles.mainText]}
+                  style={styles.input}
                   onSubmitEditing={this._handleTextChange}
-                  underlineColorAndroid="transparent"
                 />
               </View>
             </View>
@@ -88,7 +87,12 @@ const styles = StyleSheet.create({
     marginTop: 3
   },
   zipCode: { flex: 1, flexBasis: 1, width: 50, height: baseFontSize },
-  mainText: { fontSize: baseFontSize, color: "#FFFFFF" }
+  mainText: { fontSize: baseFontSize, color: "#800080" },
+  input: {
+    fontSize: 20,
+    borderWidth: 2,
+    height: 40
+  },
 });
 
 export default App;
