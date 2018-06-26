@@ -120,3 +120,10 @@ Had trouble copying and modifying AwesomeProject into WeatherProject, so for now
 >
 > C:\inetpub\wwwroot\bonniee-learning-react-native>react-native init WeatherProject
 >
+
+----------------
+Turn on Logging:
+----------------
+react-native log-ios
+react-native log-android
+adb logcat | grep ReactNativeJS

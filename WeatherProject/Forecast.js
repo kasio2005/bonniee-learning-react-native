@@ -7,7 +7,7 @@ class Forecast extends Component {
         return (
             <View style={styles.container}>
                 <Text style={styles.bigText}>
-                    {this.props.main}
+                {this.props.zip}: {this.props.main}
                 </Text>
                 <Text style={styles.mainText}>
                     Current Conditions:
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
         fontSize: 20,
         textAlign: "center",
         margin: 10,
-        color: "#FFFFFF"
+        color: "#800080"
     },
     mainText: {
         flex: 1,

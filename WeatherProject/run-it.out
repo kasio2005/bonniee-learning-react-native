@@ -1,4 +1,4 @@
-Scanning folders for symlinks in C:\inetpub\wwwroot\bonniee-learning-react-native\WeatherProject\node_modules (58ms)
+Scanning folders for symlinks in C:\inetpub\wwwroot\bonniee-learning-react-native\WeatherProject\node_modules (57ms)
 JS server already running.
 Building and installing the app on the device (cd android && gradlew.bat installDebug)...
 Incremental java compilation is an incubating feature.
@@ -46,12 +46,12 @@ Incremental java compilation is an incubating feature.
 :app:packageDebug UP-TO-DATE
 :app:assembleDebug UP-TO-DATE
 :app:installDebug
-Installing APK 'app-debug.apk' on 'SM-G930V - 7.0' for app:debug
+Installing APK 'app-debug.apk' on 'SM-G930V - 8.0.0' for app:debug
 Installed on 1 device.
 
 BUILD SUCCESSFUL
 
-Total time: 22.239 secs
+Total time: 26.922 secs
 Running C:\Users\John.diana\AppData\Local\Android\Sdk/platform-tools/adb -s 3dbc9fc4 reverse tcp:8081 tcp:8081
 Starting the app on 3dbc9fc4 (C:\Users\John.diana\AppData\Local\Android\Sdk/platform-tools/adb -s 3dbc9fc4 shell am start -n com.weatherproject/com.weatherproject.MainActivity)...
-Starting: Intent { cmp=com.weatherproject/.MainActivity launchParam=MultiScreenLaunchParams { mDisplayId=0 mFlags=0 } }
+Starting: Intent { cmp=com.weatherproject/.MainActivity }
